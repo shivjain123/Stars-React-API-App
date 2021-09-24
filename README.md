@@ -1,1 +1,2 @@
-# Stars-React-API-App
+# star-api
+Star Api 
